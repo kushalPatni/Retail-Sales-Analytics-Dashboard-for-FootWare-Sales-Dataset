@@ -190,7 +190,7 @@ calculate_advanced_kpis(data):
 - **Business Dashboards**: KPI monitoring interfaces
 - **Geographic Analysis**: Regional performance mapping
 
-### **Dashboard Screenshots**
+### **Graphs Screenshots**
 
 <img width="706" height="298" alt="image" src="https://github.com/user-attachments/assets/2df7f7e6-9770-41a7-8359-f01bc22fbf1e" />
 <img width="704" height="300" alt="image" src="https://github.com/user-attachments/assets/ad229f78-8f5f-44f0-ac91-20483c8b9431" />
